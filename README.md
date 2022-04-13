@@ -8,4 +8,4 @@ Again, before submitting an issue, please use the search function to check if th
 
 When submitting your issue, if you want to include a screenshot, you can do so by directly pasting the image into the issue.
 
-Issues specific to the LCP file that are not present in the PDF can be directed to [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeWKCTbVINnxGAPJLzUw8mymdWCWwPWA7FvCsWP2Ztd9pU8cw/viewform) where it will be directed to the Comp/Con development team.
+Issues specific to the LCP file that are not present in the PDF can be directed to [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeWKCTbVINnxGAPJLzUw8mymdWCWwPWA7FvCsWP2Ztd9pU8cw/viewform) where it will be directed to the Comp/Con development team. Their issue tracker for the KTB LCP can be found [here](https://github.com/massif-press/ktb-data/issues), where you can check if the issue you have found has already been reported.
