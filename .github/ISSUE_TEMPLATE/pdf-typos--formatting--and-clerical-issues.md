@@ -3,7 +3,7 @@ name: PDF Typos, Formatting, and Clerical Issues
 about: Use this template for reporting typo, formatting, and other clerical issues
   you find in the KTB release PDF.
 title: "[Page Number] - Issue - Description"
-labels: pdf
+labels: ''
 assignees: ''
 
 ---
