@@ -4,4 +4,6 @@ This is the place to send typos or errors you have found in ["The Karrakin Trade
 
 To submit an issue, navigate to the [issues](https://github.com/lenaleciel/KTB-Release-Typos-and-Errors/issues) tab, click New Issue, and select the appropriate template based on whether this is an LCP or PDF specific issue. You can also click [here](https://github.com/lenaleciel/KTB-Release-Typos-and-Errors/issues/new/choose). Do not select "Open a blank issue" and try to stick to the given template.
 
+Before submitting an issue, please use the search function to check if the issue has already been reported.
+
 When submitting your issue, if you want to include a screenshot, you can do so by directly pasting the image into the issue.
